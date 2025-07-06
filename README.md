@@ -1,2 +1,1 @@
-
-![ML Ops Architecture](https://github.com/user-attachments/assets/a364f1e1-1539-4f24-9797-5ced2f27dadb)
+![ML Ops Architecture](https://github.com/user-attachments/assets/77b75224-d550-414f-8792-51b1e15e5614)
